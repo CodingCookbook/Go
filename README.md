@@ -23,7 +23,7 @@
 
 
 ## 订阅链接
-[公众号「**编程Cookbook**」八股库：Go语言]()
+[公众号「**编程Cookbook**」八股库：Go语言](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3874583087514271749&scene=173&sessionid=1740633192&enterid=1740633207&from_msgid=2247485022&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
 > 关注公众号「**编程Cookbook**」，获取更多编程学习/面试资料！  
